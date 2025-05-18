@@ -1,9 +1,18 @@
 # pyvcon
 
-Minimal async RCON client for Pavlov VR and Source engine servers.
+optimized rcon package used for my discord bots and other stuff.
+
+designed to connect fast and efficiency 
+
+---
+
+## Requirements
+
+- Python 1.10 n higher
+
+---
 
 ## Installation
 
-Clone this repository and install locally:
 ```bash
-pip install .
+pip install pyvcon-async
